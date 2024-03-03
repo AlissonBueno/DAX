@@ -1,0 +1,2 @@
+Cor Pareto = 
+IF ( [ProdPercentCumulative] <= 0.8, "#1A4788", "#E8E8E8" )
